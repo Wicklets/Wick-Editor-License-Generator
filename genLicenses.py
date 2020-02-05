@@ -24,9 +24,9 @@ with open(fileName) as f:
   
 license_header = '''
   <h1> Wick Editor Open Source Notices </h1>
-    <p> 
-      The Wick Editor is an open source project that utilizes the shared code of dozens of other open source libraries. Below, you can find a list of the projects we use, links to their repositories, and a copy of their license terms. If we have missed a library, or if you have any questions about this list, please send a message to contact@wickeditor.com.
-    </p>
+  <p> 
+    The Wick Editor is an open source project that utilizes the shared code of dozens of other open source libraries. Below, you can find a list of the projects we use, links to their repositories, and a copy of their license terms. If we have missed a library, or if you have any questions about this list, please send a message to contact@wickeditor.com.
+  </p>
 '''
 
 
@@ -34,7 +34,7 @@ default_license = '''
 
   <h3>Library: <a href="<LIB_URL>"><LIB_NAME></a>, License: <LICENSE_TYPE></h3>
   <h4>Used in: <PROJECT_PARENT></h4>
-  The <LIB_NAME> library is governed by the following license:
+  <p>The <LIB_NAME> library is governed by the following license:</p>
   <p>
     <FULL_LICENSE>
   </p>
