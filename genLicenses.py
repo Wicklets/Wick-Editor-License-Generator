@@ -64,8 +64,16 @@ for library in data:
     escapedAmp = str(r.content).replace("&", "&amp");
     escapedLeft = escapedAmp.replace("<", "&lt");
     escapedRight = escapedLeft.replace(">", "&rt");
-    escapedLine = escapedRight.replace("\n", "<br>");
-    fullLicense = parentLicense.replace('<FULL_LICENSE>', escapedLine)
+    escapedLine = escapedRight.replace("\\n", "<br>");
+    escapedTab = escapedLine.replace("\\t", "    ");
+    
+    if (escapedTab.startswith("b'")):
+      escapedTab = escapedTab[2:]
+    
+    if (escapedTab.endswith("'")):
+      escapedTab = escapedTab[:-1]
+    
+    fullLicense = parentLicense.replace('<FULL_LICENSE>', escapedTab)
   except: 
     print("Can't load " + libName)
     
