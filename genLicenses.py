@@ -64,7 +64,8 @@ for library in data:
     escapedAmp = str(r.content).replace("&", "&amp");
     escapedLeft = escapedAmp.replace("<", "&lt");
     escapedRight = escapedLeft.replace(">", "&rt");
-    fullLicense = parentLicense.replace('<FULL_LICENSE>', escapedRight)
+    escapedLine = escapedRight.replace("\n", "<br>");
+    fullLicense = parentLicense.replace('<FULL_LICENSE>', escapedLine)
   except: 
     print("Can't load " + libName)
     
