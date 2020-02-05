@@ -1,0 +1,332 @@
+{
+    "audiobuffer-to-wav@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Jam3/audiobuffer-to-wav",
+        "licenseUrl": "https://github.com/Jam3/audiobuffer-to-wav/raw/master/LICENSE.md",
+        "parents": "wick-editor-react"
+    },
+    "base64-arraybuffer@0.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/niklasvh/base64-arraybuffer",
+        "licenseUrl": "https://raw.githubusercontent.com/niklasvh/base64-arraybuffer/master/LICENSE-MIT",
+        "parents": "wick-editor-react"
+    },
+    "bootstrap@4.3.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/twbs/bootstrap",
+        "licenseUrl": "https://github.com/twbs/bootstrap/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "classnames@2.2.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/JedWatson/classnames",
+        "licenseUrl": "https://github.com/JedWatson/classnames/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "file-saver@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/eligrey/FileSaver.js",
+        "licenseUrl": "https://github.com/eligrey/FileSaver.js/raw/master/LICENSE.md",
+        "parents": "wick-editor-react"
+    },
+    "gh-pages@2.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/tschaub/gh-pages",
+        "licenseUrl": "https://raw.githubusercontent.com/tschaub/gh-pages/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "localforage@1.7.3": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/localForage/localForage",
+        "licenseUrl": "https://github.com/localForage/localForage/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "node-sass@4.11.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sass/node-sass",
+        "licenseUrl": "https://github.com/sass/node-sass/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "query-string@4.3.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/query-string",
+        "licenseUrl": "https://github.com/sindresorhus/query-string/raw/master/license",
+        "parents": "wick-editor-react"
+    },
+    "rc-slider@8.6.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-component/slider",
+        "licenseUrl": "https://github.com/react-component/slider/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-ace@6.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/securingsincity/react-ace",
+        "licenseUrl": "https://github.com/securingsincity/react-ace/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-aria-menubutton@6.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/davidtheclark/react-aria-menubutton",
+        "licenseUrl": "https://github.com/davidtheclark/react-aria-menubutton/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-color@2.17.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/casesandberg/react-color",
+        "licenseUrl": "https://github.com/casesandberg/react-color/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-dnd-html5-backend@6.0.0": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/react-dnd/react-dnd",
+        "licenseUrl": "https://github.com/react-dnd/react-dnd/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-dnd@6.0.0": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/react-dnd/react-dnd",
+        "licenseUrl": "https://github.com/react-dnd/react-dnd/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-dom@16.8.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-dropdown@1.6.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/fraserxu/react-dropdown",
+        "licenseUrl": "https://github.com/fraserxu/react-dropdown/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-dropzone@8.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-dropzone/react-dropzone",
+        "licenseUrl": "https://github.com/react-dropzone/react-dropzone/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-ga@2.5.7": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/react-ga/react-ga",
+        "licenseUrl": "https://github.com/react-ga/react-ga/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-hotkeys@2.0.0": {
+        "licenses": "ISC",
+        "repository": "https://github.com/greena13/react-hotkeys",
+        "licenseUrl": "https://github.com/greena13/react-hotkeys/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-modal@3.8.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reactjs/react-modal",
+        "licenseUrl": "https://github.com/reactjs/react-modal/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-numeric-input@2.2.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/vlad-ignatov/react-numeric-input",
+        "licenseUrl": "https://github.com/vlad-ignatov/react-numeric-input/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-reflex@3.0.13": {
+        "licenses": "MIT",
+        "repository": "https://github.com/leefsmp/Re-Flex",
+        "licenseUrl": "https://github.com/leefsmp/Re-Flex/raw/master/LICENSE.md",
+        "parents": "wick-editor-react"
+    },
+    "react-resize-detector@3.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/maslianok/react-resize-detector",
+        "licenseUrl": "https://github.com/maslianok/react-resize-detector/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-rnd@9.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/bokuweb/react-rnd",
+        "licenseUrl": "https://github.com/bokuweb/react-rnd/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-scripts@2.0.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/create-react-app",
+        "licenseUrl": "https://github.com/facebook/create-react-app/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-select@2.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/JedWatson/react-select",
+        "licenseUrl": "https://github.com/JedWatson/react-select/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-tabs@3.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reactjs/react-tabs",
+        "licenseUrl": "https://github.com/reactjs/react-tabs/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-toastify@4.5.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/fkhadra/react-toastify",
+        "licenseUrl": "https://github.com/fkhadra/react-toastify/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react-tooltip@3.9.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/wwayne/react-tooltip",
+        "licenseUrl": "https://github.com/wwayne/react-tooltip/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "react@16.8.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "reactstrap@6.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reactstrap/reactstrap",
+        "licenseUrl": "https://github.com/reactstrap/reactstrap/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "tinycolor2@1.4.1": {
+        "licenses": "MIT",
+        "repository": "https://bgrinshub.com/TinyColor",
+        "licenseUrl": "https://raw.githubusercontent.com/bgrins/TinyColor/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "underscore@1.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jashkenas/underscore",
+        "licenseUrl": "https://github.com/jashkenas/underscore/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "url-parse@1.4.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/unshiftio/url-parse",
+        "licenseUrl": "https://github.com/unshiftio/url-parse/raw/master/LICENSE",
+        "parents": "wick-editor-react"
+    },
+    "croquis.js@": {
+      "licenses": "BSD-2-Clause",
+      "repository": "https://github.com/Wicklets/croquis.js",
+      "licenseUrl": "https://raw.githubusercontent.com/Wicklets/croquis.js/master/LICENSE.md", 
+      "parents": "wick-engine"
+    },
+    "canvasTransform.js@": {
+      "licenses": "MIT", 
+      "repository": "https://github.com/goessner/canvas-currentTransform",
+      "licenseUrl": "https://raw.githubusercontent.com/goessner/canvas-currentTransform/master/license.txt",
+      "parents": "wick-engine"
+    },
+    "esprima@": {
+      "licenses": "BSD-2-Clause",
+      "repository": "https://github.com/jquery/esprima/",
+      "licenseUrl": "https://raw.githubusercontent.com/jquery/esprima/master/LICENSE.BSD",
+      "parents": "wick-engine"
+    },
+    "floodfill.js@2.1.1": {
+      "licenses": "MIT",
+      "repository": "https://github.com/binarymax/floodfill.js", 
+      "licenseUrl": "https://raw.githubusercontent.com/binarymax/floodfill.js/master/LICENSE",
+      "parents": "wick-engine"
+    }, 
+    "howlers.js@2.1.1": {
+      "licenses": "MIT", 
+      "repository": "https://github.com/goldfire/howler.js", 
+      "licenseUrl": "https://raw.githubusercontent.com/goldfire/howler.js/master/LICENSE.md", 
+      "parents": "wick-engine"
+    }, 
+    "invert-color@": {
+      "licenses": "MIT",
+      "repository": "https://github.com/onury/invert-color",
+      "licenseUrl": "https://raw.githubusercontent.com/onury/invert-color/master/LICENSE", 
+      "parents": "wick-engine"
+    }, 
+    "is-var-name@": {
+      "licenses": "ISC",
+      "repository": "https://github.com/shinnn/is-var-name",
+      "licenseUrl": "https://raw.githubusercontent.com/shinnn/is-var-name/master/LICENSE",
+      "parents": "wick-engine"
+    },
+    "jquery@3.1.1": {
+      "licenses": "MIT",
+      "repository": "https://github.com/jquery/jquery",
+      "licenseUrl": "https://raw.githubusercontent.com/jquery/jquery/master/LICENSE.txt",
+      "parents": "wick-engine"
+    },
+    "jquery-mousewheel@3.1.13": {
+      "licenses": "MIT",
+      "repository": "https://github.com/jquery/jquery-mousewheel",
+      "licenseUrl": "https://raw.githubusercontent.com/jquery/jquery-mousewheel/master/LICENSE.txt",
+      "parents": "wick-engine"
+    },
+    "pressure@2.1.2": {
+      "licenses": "MIT", 
+      "repository": "https://github.com/stuyam/pressure",
+      "licenseUrl": "https://raw.githubusercontent.com/stuyam/pressure/master/License",
+      "parents": "wick-engine"
+    },
+    "jsZip@3.1.5": {
+      "licenses": "MIT",
+      "repository": "https://github.com/Stuk/jszip",
+      "licenseUrl": "https://raw.githubusercontent.com/Stuk/jszip/master/LICENSE.markdown",
+      "parents": "wick-engine"
+    },
+    "lerp@1.0.3": {
+      "licenses": "MIT",
+      "repository": "https://github.com/mattdesl/lerp",
+      "licenseUrl": "https://raw.githubusercontent.com/mattdesl/lerp/master/LICENSE.md",
+      "parents": "wick-engine"
+    },
+    "localForage@1.7.3": {
+      "licenses": "Apache License 2.0",
+      "repository": "https://github.com/localForage/localForage",
+      "licenseUrl": "https://raw.githubusercontent.com/localForage/localForage/master/LICENSE",
+      "parents": "wick-engine"
+    },
+    "offset.js@": {
+      "licenses": "MIT",
+      "repository": "https://gist.github.com/lehni/a665d6f9d95dd055b0ff901f8e313780",
+      "licenseUrl": "https://gist.githubusercontent.com/Luxapodular/948beece5b245b0f62bcb9942c7be0f4/raw/ff7d17fffae0edaf4e6eddc5d31ae734760826a8/bezierOffset.js-license.txt",
+      "parents": "wick-engine"
+    },
+    "paper.js@0.11.8": {
+      "licenses": "MIT",
+      "repository": "https://github.com/paperjs/paper.js",
+      "licenseUrl": "https://raw.githubusercontent.com/paperjs/paper.js/develop/LICENSE.txt",
+      "parents": "wick-engine"
+    },
+    "platform.js@1.3.5": {
+      "licenses": "MIT",
+      "repository": "https://github.com/bestiejs/platform.js/",
+      "licenseUrl": "https://raw.githubusercontent.com/bestiejs/platform.js/master/LICENSE",
+      "parents": "wick-engine"
+    },
+    "potrace@": {
+      "licenses": "GPL-2.0",
+      "repository": "https://github.com/oov/potrace",
+      "licenseUrl": "https://raw.githubusercontent.com/oov/potrace/master/COPYING",
+      "parents": "wick-engine"
+    },
+    "reserved-words:0.1.2": {
+      "licenses": "MIT",
+      "repository": "https://github.com/zxqfox/reserved-words",
+      "licenseUrl": "https://raw.githubusercontent.com/zxqfox/reserved-words/master/LICENSE",
+      "parents": "wick-engine"
+    },
+    "tween.js@18.5.0": {
+      "licenses": "MIT",
+      "repository": "https://github.com/tweenjs/tween.js",
+      "licenseUrl": "https://raw.githubusercontent.com/tweenjs/tween.js/master/LICENSE",
+      "parents": "wick-engine"
+    },
+    "uuid@3.4.0": {
+      "licenses": "MIT",
+      "repository": "https://github.com/uuidjs/uuid",
+      "licenseUrl": "https://raw.githubusercontent.com/uuidjs/uuid/master/LICENSE.md",
+      "parents": "wick-engine"
+    }
+}
