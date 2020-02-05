@@ -32,15 +32,11 @@ license_header = '''
 
 default_license = '''
 
+  <h3>Library: <a href="<LIB_URL>"><LIB_NAME></a>, License: <LICENSE_TYPE></h3>
+  <h4>Used in: <PROJECT_PARENT></h4>
+  The <LIB_NAME> library is governed by the following license:
   <p>
-    <h3>Library: <a href="<LIB_URL>"><LIB_NAME></a>, License: <LICENSE_TYPE></h3>
-    <h4>Used in: <PROJECT_PARENT></h4>
-    <br>
-      The <LIB_NAME> library is governed by the following license:
-    <br>
-    <p>
-      <FULL_LICENSE>
-    </p>
+    <FULL_LICENSE>
   </p>
 '''
 
