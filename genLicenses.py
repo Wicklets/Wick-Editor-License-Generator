@@ -47,7 +47,7 @@ default_license = '''
 with open(finalFile, "w") as outFile:
     outFile.write(license_header)
     
-for library in sorted(data.keys()):
+for library in data:
   split = library.split('@')
   libName = split[0]
   libUrl = data[library]['repository']

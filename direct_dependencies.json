@@ -1,4 +1,10 @@
 {
+  "wick-editor": {
+    "licenses": "GPL-3.0",
+    "repository": "https://github.com/Wicklets/wick-editor",
+    "licenseUrl": "https://raw.githubusercontent.com/Wicklets/wick-editor/master/LICENSE.md",
+    "parents": "wick-editor"
+  }, 
     "audiobuffer-to-wav@1.0.0": {
         "licenses": "MIT",
         "repository": "https://github.com/Jam3/audiobuffer-to-wav",
