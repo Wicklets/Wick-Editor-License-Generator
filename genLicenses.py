@@ -61,7 +61,10 @@ for library in data:
   print("Adding Library: ", libName)
   try:
     r = requests.get(licenseURL)
-    fullLicense = parentLicense.replace('<FULL_LICENSE>', str(r.content))
+    escapedAmp = str(r.content).replace("&", "&amp");
+    escapedLeft = escapedAmp.replace("<", "&lt");
+    escapedRight = escapedLeft.replace(">", "&rt");
+    fullLicense = parentLicense.replace('<FULL_LICENSE>', escapedRight)
   except: 
     print("Can't load " + libName)
     
